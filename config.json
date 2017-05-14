@@ -1,0 +1,5 @@
+{
+  "db":"mongodb://localhost/rest_test",
+  "api_port":"45200",
+  "tokenKey":"tokenultrasecreto"
+}

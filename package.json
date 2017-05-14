@@ -1,0 +1,19 @@
+{
+  "name": "restapp",
+  "version": "1.0.0",
+  "description": "ejemplo de una api rest",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ulises beltran gomez",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "jwt-simple": "^0.5.1",
+    "moment": "^2.17.1",
+    "mongoose": "^4.7.7",
+    "node-restful": "^0.2.5"
+  }
+}
